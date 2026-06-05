@@ -1,0 +1,17 @@
+{
+  "name": "dev-vedio",
+  "version": "1.0.0",
+  "description": "a backend series in dev video",
+  "keywords": [
+    "javascript",
+    "backend",
+    "dev-video"
+  ],
+  "license": "ISC",
+  "author": "sarvdnya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
